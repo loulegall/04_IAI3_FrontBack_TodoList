@@ -22,5 +22,3 @@ services:
 
 volumes:
   flaskapp:
-    external:
-      name: IAI3_04_Volume_1
